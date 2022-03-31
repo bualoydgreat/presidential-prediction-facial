@@ -27,16 +27,13 @@ Since data targets are unbalanced SMOTE has been implemented.
 
 ## Results
 
-**76.03% Test Accuracy**
-**90.23% Train Accuracy**
-
+**76.03% Test Accuracy**  
+**90.23% Train Accuracy**  
 by Random Forest
 
-kNN - 74.83%
-
-Decision Tree - 67.72%
-
-PCC Baseline Accuracy 65.34%
+kNN - 74.83%  
+Decision Tree - 67.72%  
+PCC Baseline Accuracy 65.34%  
 
 
 ![Win Rate](/Screenshots/winrate.png)
@@ -52,12 +49,10 @@ Thus these are the things recommended to be improved:
 
 
 ## Contributing
-Most of these code could soon be improved.
-Pull requests are welcome. 
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License.
 
-
-
-***THANKS FOR READING***
+## Acknowledgement
+Great appreciation to my teacher Sir. Elmer Joaquin and my teammates: Golden Domingo, Ivan Floyd Erer & Trisia Ann Luna.
