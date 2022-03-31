@@ -20,7 +20,7 @@ pip install -U scikit-learn
 ## Methodology
 
 The aspirants for the past 6 Presidential elections, since 1992, have been collected as the base data for the model. 
-These are all generated manually using [Facial Data Generate Notebook](/FacialDataGenerate.ipynb) then encoded to [Facial Data Generate Notebook](/PH_presidential_feature.xlsx)
+These are all generated manually using [Facial Data Generate Notebook](/FacialDataGenerate.ipynb) then encoded to [Presidential Features Excel](/PH_presidential_feature.xlsx)
 Since data targets are unbalanced SMOTE has been implemented.
 
 ![Methodology](/Screenshots/methodology.png)
@@ -40,7 +40,7 @@ PCC Baseline Accuracy 65.34%
 
 ## Conclusion and Recommendations
 
-The prediction is based mostly on Jawline Prominence produced by carefully selecting the ideal images of candidates. The model's accuracy relies on how well the dib 68 points data predicts the facial landmarks.
+The prediction is based mostly on Jawline Prominence produced by carefully selecting the ideal images of candidates. The model's accuracy relies on how well the dlib 68 points data predicts the facial landmarks.
 Thus these are the things recommended to be improved:
 
 - Apply Deep Learning Model to increase accuracy.
